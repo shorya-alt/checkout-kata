@@ -40,7 +40,7 @@ step3: To get quantity of the each product code getquantity function is used:
        suppose user  give input as 'ABCDDBA':
        map function which contain lambda expression and user input product code
        lambda function take user input code and  check if  A present in  given input if present then return 1 else 0.
-       same process are applied for B,C,D.sum function is used to count all the the product code of same kind.
+       same process are applied for B,C,D.sum function is used to count all the the product code mapped value.
        a_count = 2
        b_count = 2
        c_count = 1
